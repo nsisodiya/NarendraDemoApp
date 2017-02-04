@@ -17,7 +17,7 @@ export default class NarendraDemoApp extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Welcome to React Native!
+          Hello Narendra Sisodiya, welcome to this app world.
         </Text>
         <Text style={styles.instructions}>
           To get started, edit index.ios.js
